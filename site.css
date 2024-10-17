@@ -1,0 +1,324 @@
+body{
+    margin: auto;
+}
+li{
+    list-style-type: none;
+    display: inline-block;
+    font-family: helvetica;
+    font-size: smaller;
+    color: rgb(48, 47, 47);
+}
+
+.nav{
+    background-color: white;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: rgb(233, 231, 231);
+    padding-bottom: 11px;
+    display: flex;
+}
+.navdiv{
+    display: flex;
+}
+.logo{
+    width: 86px;
+    height: 85px;
+    margin-top: 16px;
+    margin-left: 186px;
+}
+.lan{
+    padding-left: 57px;
+    padding-top: 10px;
+    
+
+}
+.sign{
+    padding-left: 30px;
+    padding-top: 10px;
+
+}
+.care{
+    padding-left: 30px;
+    padding-top: 10px;
+
+}
+.sea{
+    padding-left: 0px;
+    padding-top: 10;
+
+}
+.find{
+    padding-left: -13px;
+    padding-top: 10;
+    padding-right: 15px;
+    color: rgb(73, 73, 237);
+}
+.button{
+    padding-left: 7px;
+    padding-top: 11;
+    padding-bottom:10px ;
+    background-color: #fec208;
+    border: none;
+    border-radius: 4px;
+    font-size: smaller;
+    text-align: center;
+    width: 93px;
+    height: 37px;
+}
+.menu{
+    padding-left: 60px;
+    padding-top: 25px;
+    font-size:small ;
+}
+.app{
+    padding-top: 25px;
+    padding-left: 30px;
+    font-size:small ;
+}
+.rew{
+    padding-top: 25px;
+    padding-left: 30px;
+    font-size:small ;
+
+}
+.deal{
+    padding-top: 25px;
+    padding-left: 30px;
+    font-size:small ;
+
+}
+.about{
+    padding-top: 25px;
+    padding-left: 30px;
+    font-size:small ;
+
+}
+.del{
+    padding-top: 25px;
+    padding-left: 30px;
+    font-size:small ;
+
+}
+.loc{
+    padding-top: 25px;
+    padding-left: 30px;
+    font-size:small ;
+}
+.gif{
+    padding-top: 25px;
+    padding-left: 30px;
+    font: size 20px; 
+
+}
+.arr1{
+    height: 10px; 
+}
+.arr2{
+    height: 10px;
+}
+.srchlogo{
+    height: 13px;
+    margin-bottom: -2px;
+    padding-left: 217px;
+}
+.locicon{
+    height: 20px;
+    margin-bottom: -5px;
+    padding-left: 4px;
+}
+.img1{
+    height: 320px;
+    padding-left: 179px;
+    padding-top: 100px;
+}
+.head1{
+    padding-left: 929px;
+    margin-top: -307px;
+    font-weight: bold;
+    font-family: helvetica ;
+    
+}
+.par1{
+    padding-left: 929px;
+    margin-top: -3px;
+    line-height: 1.5;
+
+}
+.para2{
+    font-size: x-small;
+    padding-left: 929px;
+    margin-top: -3px;
+
+}
+.button1{
+    background-color: #fec208;
+    border: none;
+    border-radius: 4px;
+    text-align: center;
+    margin-left: 928px;
+    margin-top: 36px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 17px;
+    padding-right: 17px;
+    
+}
+.img2{
+    height: 320px;
+    margin-bottom: 0px;
+    margin-left: 172px;
+    margin-top: 140px;
+
+}
+.head2{
+    padding-left: 929px;
+    margin-top: -307px;
+    font-weight: bold;
+    font-family: helvetica ;
+}
+.para3{
+    padding-left: 929px;
+    margin-top: -3px;
+    line-height: 1.5; 
+}
+.para4{
+    font-size: x-small;
+    padding-left: 929px;
+    margin-top: -3px;
+
+}
+.buttton2{
+    background-color: #fec208;
+    border: none;
+    border-radius: 4px;
+    text-align: center;
+    margin-left: 928px;
+    margin-top: 36px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 17px;
+    padding-right: 17px;
+}
+.img3{
+    height: 320px;
+    margin-bottom: 0px;
+    margin-left: 172px;
+    margin-top: 140px; 
+}
+
+.div2{
+    background-color: white;
+    height: 624px;
+    margin-top: 74px;
+    padding-top: 87px;
+    padding-left: 161px;
+}
+
+.indiv1{
+    background-color: white;
+    height: 326px;
+    padding-top: 4px;
+    padding-left: 35px;
+    width: 186px;
+
+}
+.f1{
+   font-family: Segoe UI;
+   font-size: 15px; 
+}
+.fp1{
+    font-family: Helvetica;
+    font-size: medium;
+    line-height: 29px;
+    color: rgb(43, 41, 41);
+
+}
+.indiv2{
+    background-color: white;
+    height: 326px;
+    padding-top: 4px;
+    padding-left: 83px;
+    width: 186px;
+    margin-left: 251px;
+    margin-top: -330px;
+
+}
+.indiv3{
+    background-color: white;
+    height: 326px;
+    padding-top: 4px;
+    padding-left: 51px;
+    width: 186px;
+    margin-left: 585px;
+    margin-top: -330px;
+}
+.indiv4{
+    background-color: white;
+    height: 326px;
+    padding-top: 4px;
+    padding-left: 45px;
+    width: 186px;
+    margin-left: 893px;
+    margin-top: -330px;
+}
+.fb{
+    margin-top: 142px;
+}
+.x{
+  padding-left: 19px;
+}
+.yt{
+    padding-left: 19px;
+}
+.insta{
+    padding-left: 19px;
+}
+.tump{
+    padding-left: 19px;
+}
+.spo{
+    padding-left: 19px;
+}
+.appstore{
+    padding-left: 466px;
+}
+.div3{
+    height: 200px;
+    padding-top: 4px;
+    padding-left: 35px;
+    margin-left: 25px;
+    margin-top: 42px;
+    width: 1110px;
+    background-color: white;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-color: rgb(215 213 213);
+}
+.last1{
+    margin-left: -52px;
+    margin-top: 32px;
+    padding-right: 38px;
+}
+.last2{
+    padding-right: 38px;
+}
+.last3{
+    padding-right: 38px;
+}
+.lastlogo{
+    height: 32px;
+    padding-left: 106px;
+    margin-bottom: -12px;
+    padding-right: 106px;
+}
+.last4{
+    padding-left: 993px;
+}
+.last5{
+    margin-left: -53px;
+    padding-right: 38px;
+
+}
+.last6{
+    padding-right: 38px;
+}
